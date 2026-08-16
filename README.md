@@ -1,3 +1,9 @@
+**Name:** Rajvinder Kaur  
+**Registration No:** RA2411003010132  
+**Section:** C1  
+**Assignment:** Workflow Assignment 1
+
+---
 # Workflow Automation - Assignment 1
 
 BPMN 2.0 process models for three organizational workflows, built in Camunda Modeler 5.49.
