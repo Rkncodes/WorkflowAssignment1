@@ -6,7 +6,7 @@ BPMN 2.0 process models for three organizational workflows, built in Camunda Mod
 
 ### 1. Employee Leave Approval
 
-![Leave Approval](cenario1-leave-approval.png)
+![Leave Approval](scenario1-leave-approval.png)
 
 Starts when an employee submits a leave request. The HR system checks the leave balance, then an exclusive gateway routes on the result. Insufficient balance sends a notification and ends. Sufficient balance routes to manager review, where a second gateway splits on the decision: approval updates the balance and notifies the employee, rejection sends a rejection notice. Three end events, one per outcome.
 
